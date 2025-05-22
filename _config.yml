@@ -74,7 +74,7 @@ author:
     #- label: "Instagram"
      # icon: "fab fa-fw fa-instagram"
      # url: "https://instagram.com/"
-      - label: "LinkedIn"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/rebeka-sarkar-490540245/"
     - label: "Google Scholar"
