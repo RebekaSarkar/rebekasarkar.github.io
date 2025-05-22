@@ -1,5 +1,5 @@
 ---
-permalink: \education\
+permalink: /education/
 title: "Education"
 ---
 - 2014-2016  **M.Sc. Physics** Aligarh Muslim University, Aligarh, Uttar Pradesh, India.
