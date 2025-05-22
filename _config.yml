@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Rebeka Sarkar"
   avatar : "/assets/images/riya.jpg"
-  bio    : "I am a researcher in theoretical physics with a focus on nonlinear dynamics, parametric resonance, and stability analysis in mechanical and fluid systems. MY work combines analytical techniques like Floquet theory and bifurcation analysis with direct numerical analysis to explore various dynamical systems and have a growing interest in their applications to biological and interdisciplinary sciences."
+  bio    : " Ph.D. Student. Interested in Nonlinear dynamics, Stability, Fluid dynamics "
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
