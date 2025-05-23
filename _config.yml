@@ -113,7 +113,8 @@ defaults:
       type: posts
     values:
       layout: single
-      css: "/assets/css/custom.css"
+      custom_css: 
+      - "/assets/css/custom.css"
       author_profile: true
       read_time: true
       comments: true
@@ -125,7 +126,8 @@ defaults:
       type: pages
     values:
       layout: single
-      css: "/assets/css/custom.css"
+      custom_css: 
+      - "/assets/css/custom.css"
       author_profile: true
 
 
@@ -140,3 +142,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
