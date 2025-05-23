@@ -1,17 +1,12 @@
 
 /* Custom font and size */
 body {
-  font-size: 12px;
+  font-size: 11px;
   font-family: 'Georgia', serif;
+  background-color: #f5f0ff;
 }
 
-h1, h2, h3, h4 {
-  font-family: 'Georgia', serif;
-}
-body {
-  background-color: #f5f0ff;  /* pink background to test */
-  font-size: 12px;
-}
+
 
 
 
