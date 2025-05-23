@@ -128,7 +128,20 @@ defaults:
       css: "assets/css/custom.css"
       author_profile: true
 
-      # Link custom CSS
+     # Load custom CSS
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      css: "assets/css/custom.css"
+
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      css: "assets/css/custom.css"
+
 
 
 
