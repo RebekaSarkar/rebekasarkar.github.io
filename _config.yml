@@ -112,6 +112,7 @@ defaults:
       type: posts
     values:
       layout: single
+      css: "assets/css/custom.css"
       author_profile: true
       read_time: true
       comments: true
@@ -123,22 +124,11 @@ defaults:
       type: pages
     values:
       layout: single
+      css: "assets/css/custom.css"
       author_profile: true
 
 
      # Load custom CSS
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      css: "assets/css/custom.css"
-
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      css: "assets/css/custom.css"
 
 
 
