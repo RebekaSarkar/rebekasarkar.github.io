@@ -113,8 +113,6 @@ defaults:
       type: posts
     values:
       layout: single
-      custom_css: 
-      - "/assets/css/custom.css"
       author_profile: true
       read_time: true
       comments: true
@@ -126,8 +124,6 @@ defaults:
       type: pages
     values:
       layout: single
-      custom_css: 
-      - "/assets/css/custom.css"
       author_profile: true
 
 
