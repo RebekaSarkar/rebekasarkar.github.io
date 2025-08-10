@@ -1,7 +1,27 @@
 
 /* Custom font and size */
+@media (min-width: 80em) {
+
+.author__avatar {
+display: table-cell;
+vertical-align: top;
+width: 80px; //original: 36px
+height: 80px; //original: 36px
+
+@include breakpoint($large) {
+display: block;
+width: auto;
+height: auto;
+}
+
+img {
+max-width: 175px; //original: 110px
+border-radius: 50%;
+}
+}
+}
 body {
-  font-size: 11px;
+  font-size: 10px;
   font-family: 'Georgia', serif;
   background-color: #f5f0ff;
 }
