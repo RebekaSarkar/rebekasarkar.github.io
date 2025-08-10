@@ -5,7 +5,7 @@
 layout: single
 author_profile: true
 header:
-  image: assets/images/header1.jpg
+  image: assets/images/header2.jpg
   # overlay_color: "rgba(0, 0, 0, 0.5)" # Example: 50% black overlay
   # overlay_filter: "linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 0, 0.5))"
 ---
