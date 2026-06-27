@@ -10,7 +10,7 @@ header:
   # overlay_filter: "linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 0, 0.5))"
 ---
 
-I am a Ph.D. student in Physics at the **Indian Institute of Technology Kharagpur**. My research focuses on how instabilities arise in nonlinear systems under time-periodic forcing.  I use tools such as **Floquet theory**, bifurcation analysis, and direct numerical simulation to analyze dynamical systems. I am particularly interested in research the bridges maths and physics to address questions than transcend traditional disciplinary boundary.
+My research focuses on how instabilities arise in nonlinear systems under time-periodic forcing.  I use tools such as **Floquet theory**, bifurcation analysis, and direct numerical simulation to analyze dynamical systems. I am particularly interested in research the bridges maths and physics to address questions than transcend traditional disciplinary boundary.
 
 Outside the lab, I’m a curious reader, an avid movie enthusiast, and an occasional singer.
 I also find joy in sketching when time allows. I believe science and creativity aren't separate pursuits, but two ways of making sense of the world.
